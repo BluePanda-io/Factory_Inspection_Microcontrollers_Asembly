@@ -1,4 +1,4 @@
-# Image Processing Masks-Convolution
+# Factory Inspection Microcontrollers Asembly
 
 Developing from Scratch Filters that change Images and apply them via Convolution With the purpose to Uderstand the Basics of Image Processing - Originally developed 04/05/2018
 
