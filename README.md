@@ -16,5 +16,5 @@ The purpose of this project is to create an automated factory inspection system 
 It was an amazing introduction to Assembly and in general the world of micro controllers. It was a realy good transition from Arduino and RaspberryPi projects to the world of low level micro controllers. 
 
 ## Which was the project difficulty 
-It was mainly the language that it was built upon
+It was mainly the language that it was built upon.
 
