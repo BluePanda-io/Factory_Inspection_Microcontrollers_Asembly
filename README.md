@@ -1,6 +1,6 @@
 # Factory Inspection Microcontrollers Assembly
 
-The purpose of this project is to create an automated factory inspection system using hardware and more specifically Microcontrollers ATmega16. In this system we have 3 main parts of the assemply line in the factory that need to communicate. - Originally developed 27/03/2018
+The purpose of this project is to create an automated factory inspection system using hardware and more specifically Microcontrollers ATmega16. In this system we have 3 main parts of the assembly line in the factory that need to communicate with each other. - Originally developed 27/03/2018
 
 
 
